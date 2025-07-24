@@ -1,0 +1,27 @@
+# Django
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
+*.pid
+*.seed
+*.swp
+
+# Environment variables
+.env
+
+# Virtual environment
+venv/
+env/
+myenv/
+
+# Django local settings
+local_settings.py
+*.bak
+
+# Media and static files
+media/
+staticfiles/
